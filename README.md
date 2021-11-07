@@ -1,16 +1,13 @@
-### Hi there 👋
+### **Hi there** 👋
+![](https://komarev.com/ghpvc/?username=xiaoyu2018&color=9BCFB8&style=plastic)  
 
-<!--
-**xiaoyu2018/xiaoyu2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Xavier
++ 🏠 I'm from China and living in Beijing right now
++ 🎓 I'm currently studying in University of China Academy of Sciences
++ 😃 Still learning new things
+### **Languages**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu2018&exclude_repo=xiaoyu2018.github.io&layout=compact&hide=QMake)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Contact me**
++ 📫 xavier_xy@qq.com
