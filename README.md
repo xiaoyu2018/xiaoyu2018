@@ -5,8 +5,6 @@ This is Xavier
 + 🏠 I'm from China and living in Beijing right now
 + 🎓 Currently studying at University of China Academy of Sciences
 + 😃 Keep Learning
-<br/>
-<br/>
 
 ### **Languages and Tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -17,8 +15,7 @@ This is Xavier
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu2018&exclude_repo=xiaoyu2018.github.io&layout=compact&hide=QMake&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu2018&show_icons=true&theme=cobalt)
-<br/>
-<br/>
+
 
 ### **Contact Me**
 + 📫 xavier_xy@qq.com
