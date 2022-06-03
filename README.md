@@ -18,4 +18,4 @@ This is Xavier
 
 
 ### **Contact Me**
-+ 📫 xavier_xy@qq.com
++ 📫 xavier_xy@foxmail.com
