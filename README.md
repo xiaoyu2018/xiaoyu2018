@@ -1,21 +1,32 @@
-### **Hi there** 👋
-![](https://komarev.com/ghpvc/?username=xiaoyu2018&color=9BCFB8&style=plastic)  
+```
+__   __               _             _                           __  _  _       
+\ \ / /              (_)           ( )                         / _|(_)| |      
+ \ V /   __ _ __   __ _   ___  _ __|/ ___   _ __   _ __  ___  | |_  _ | |  ___ 
+ /   \  / _` |\ \ / /| | / _ \| '__| / __| | '_ \ | '__|/ _ \ |  _|| || | / _ \
+/ /^\ \| (_| | \ V / | ||  __/| |    \__ \ | |_) || |  | (_) || |  | || ||  __/
+\/   \/ \__,_|  \_/  |_| \___||_|    |___/ | .__/ |_|   \___/ |_|  |_||_| \___|
+                                           | |                                 
+                                           |_|                                 
+                                          
+```
 
-This is Xavier
-+ 🏠 I'm from China and living in Beijing right now
-+ 🎓 Currently studying at University of China Academy of Sciences
-+ 😃 Keeping Learning
+## Hi there 👋, I'm Xavier
+### A Technology Enthusiast ❤
+![](https://komarev.com/ghpvc/?username=xiaoyu2018&color=9BCFB8&style=plastic) 
+<br/>
+🏠 I'm from China and living in Shenyang right now  
+🎓 Currently studying at University of China Academy of Sciences  
+😃 Keep Learning
 
-### **Languages and Tools**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></code>
+- 🔭 I’m currently working on nothing 
+- 🌱 I’m currently learning：<img src='https://simpleicons.org/icons/python.svg' alt='github' height='20'> <img src='https://simpleicons.org/icons/csharp.svg' alt='github' height='20'> <img src='https://simpleicons.org/icons/unity.svg' alt='github' height='20'> <img src='https://simpleicons.org/icons/pytorch.svg' alt='github' height='20'> 
+- 📫 How to reach me: xavier_xy@foxmail.com 
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu2018&exclude_repo=xiaoyu2018.github.io&layout=compact&hide=QMake,Dockerfile&theme=cobalt&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu2018&show_icons=true&theme=cobalt)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xiaoyu2018)  
 
-### **Contact Me**
-+ 📫 xavier_xy@foxmail.com
