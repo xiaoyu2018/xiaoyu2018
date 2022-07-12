@@ -32,7 +32,6 @@
 <br/>
 
 ## Check my current status
----
 |Anurag's GitHub stats|GitHub streak stats|
 |:---:|:---:|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu2018&show_icons=true&theme=cobalt)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xiaoyu2018&theme=cobalt)|
