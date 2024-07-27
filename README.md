@@ -18,7 +18,7 @@
 ![](https://komarev.com/ghpvc/?username=xiaoyu2018&color=9BCFB8&style=plastic) 
 <br/>
 🏠 I'm from China and living in Beijing right now  
-🏢 Currently working as a Data Engineer 
+🏢 Currently working as a Data Engineer  
 😃 Love programming and playing video games
 
 - 🔭 I’m currently working on nothing  
