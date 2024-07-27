@@ -17,9 +17,9 @@
 ### *A Technology Enthusiast* ❤
 ![](https://komarev.com/ghpvc/?username=xiaoyu2018&color=9BCFB8&style=plastic) 
 <br/>
-🏠 I'm from China and living in Shenyang right now  
-🎓 Currently studying at University of China Academy of Sciences  
-😃 Love programming and video games
+🏠 I'm from China and living in Beijing right now  
+🏢 Currently working as a Data Engineer 
+😃 Love programming and playing video games
 
 - 🔭 I’m currently working on nothing  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu2018&exclude_repo=xiaoyu2018.github.io&layout=compact&hide=QMake,Dockerfile&theme=cobalt&langs_count=5)
