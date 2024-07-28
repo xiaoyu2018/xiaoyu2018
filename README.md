@@ -21,7 +21,7 @@
 🏢 Currently working as a Data Engineer  
 😃 Love programming and playing video games
 
-- 🔭 I know a little about coding:
+- 🔭 I know a little about coding:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu2018&exclude_repo=xiaoyu2018.github.io&layout=compact&hide=QMake,Dockerfile&theme=cobalt&langs_count=5)
 - 🌱 I am interested in：<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
