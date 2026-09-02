@@ -18,8 +18,7 @@
 ![](https://komarev.com/ghpvc/?username=xiaoyu2018&color=9BCFB8&style=plastic) 
 <br/>
 🏠 I am from China and living in Beijing   
-🏢 I am Currently working as a Data Engineer  
-😃 I Love programming and playing video games
+😃 I Love programming and dreaming
 
 - 🔭 I know a little about coding:  
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=xiaoyu2018&exclude_repo=xiaoyu2018.github.io&layout=compact&hide=QMake,Dockerfile&theme=cobalt&langs_count=5)
